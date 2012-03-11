@@ -1,0 +1,3 @@
+A set of examples and experiments for doing interesting and hopefully useful things in Scala.
+
+These examples are organized as a series of ScalaTest tests, so you can easily run them, but you can also just grab pieces of value instead.
